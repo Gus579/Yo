@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(yellow, blue, red);
+    color: yellow;
+    font-size: 200%;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: yellow;
+}
+h2{
+    color: cyan;
+}
+h3{
+    color: red;
+}
+.imagenes{
+    display: flex;
+    margin-left: 35%;
+}   
